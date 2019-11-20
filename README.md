@@ -10,8 +10,11 @@ When the scripts are run, they directly access values copied to your clipboard.
 ## Run Directions:
 <br>
 1. Save shortcuts to folder.
+
 2. Copy values to clipboard
+
 3. Run script to edit values and put them back on clipboard
+
 4. Paste new string
 
 ## Examples
